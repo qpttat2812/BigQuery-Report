@@ -3,6 +3,7 @@ Transform and visualize data
 
 - Cohort report
 - Sitesearch report
+- Other reports
 
 ### Demo Report:
 
