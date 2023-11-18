@@ -1,5 +1,5 @@
 # BigQuery_GA4
 Transform and visualize data
 
-Demo Report:
-
+- Cohort report
+- Sitesearch report
